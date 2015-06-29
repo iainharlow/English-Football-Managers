@@ -1,3 +1,6 @@
+Python League Manager Webscraper
+===============
+
 This python script was used to collate (selected) managerial appointment and termination dates for English clubs as recorded in the League Manager's Association (LMA) website: www.leaguemanagers.com. 
 
 This script is now updated and should work with the current incarnation of the LMA website (though there are still some broken links, which the script will take a note of and then skip).
